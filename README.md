@@ -1,2 +1,4 @@
 # Hangman_py
-Simple Ass Python Game (I'm A Beginner)
+simple ass python game (i'm a beginner)
+
+hope u like it :)
